@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chatty</string>
+    <string name="action_close_socket">Затвори</string>
+    <string name="action_example">Примерно действие</string>
+    <string name="action_send_presence">Изпрати</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello2">Здрасти, как си?</string>
+    <string name="hello">Здравей</string>
+    <string name="close_socket">Затвори сокета</string>
+    <string name="message_elipses">Съобщение...</string>
+    <string name="message_send">Изпрати</string>
+    <string name="navigation_drawer_close">Затвори менюто</string>
+    <string name="navigation_drawer_open">Отвори менюто</string>
+    <string name="no_active_clients">Няма активни клиенти</string>
+    <string name="pref_username_label">Потребителско име</string>
+    <string name="title_activity_settings">Настройки</string>
+</resources>
